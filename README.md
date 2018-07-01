@@ -2,6 +2,8 @@
 
 This is Hazard Application sample.
 
+This is the sample application to inform the user to reduce the risk and find an optimization to survive.
+
 * Ruby version
 
 * System dependencies
